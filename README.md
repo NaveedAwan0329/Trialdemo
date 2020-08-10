@@ -12,3 +12,5 @@ __Bold Text__
 *italic text*
 
 
+~~stride through text
+
