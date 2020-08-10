@@ -1,5 +1,5 @@
 # Trialdemo
-
+**Bold text editing**
 ## Second
 Try repo for practicing markdown language
 
