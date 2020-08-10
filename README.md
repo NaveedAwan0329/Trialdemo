@@ -3,7 +3,7 @@
 ## Second
 Try repo for practicing markdown language
 
-**Bold Text **
+** Bold Text **
 
 ### Heading test third heading
 
